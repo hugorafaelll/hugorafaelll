@@ -3,7 +3,6 @@ Com fome de aprender,
 Jogando o jogo da vida real.<br>
 Competitivo, overdelivery 
 🔥
-
 <div style="display: inline_block"><br>
 <img align="center" alt="hugohtml" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" alt="hugocss" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
