@@ -1,5 +1,5 @@
 
-Com fome de aprender, overdelivery
+Com fome de aprender,
 Jogando o jogo da vida real.
 
 <div style="display: inline_block"><br>
