@@ -1,9 +1,5 @@
-### Ola Pessoal 👋
 
-
-- 🔭 Procurando oportunidades em front-end
-- 🌱 Aprendendo Javascript
-- ⚡ Trabalho de graça por experiencia, interessados entrar em contato
+Com fome de aprender. 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="hugohtml" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
